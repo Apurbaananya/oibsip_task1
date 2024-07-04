@@ -30,3 +30,6 @@ The primary goal of this project is to utilize machine learning techniques to bu
 - **Distinguishing Measurements:** These species can be distinguished by measurements such as sepal length, sepal width, petal length, and petal width.
 - **Model Training:** The project involves training a machine learning model on a dataset containing iris flower measurements and their respective species.
 - **Classification Goal:** The trained model will classify iris flowers into one of the three species based on their measurements.
+
+
+## Results
