@@ -16,3 +16,17 @@ Project Details:
 This project is significant as it can streamline and automate the classification of iris species, with potential applications in botany, horticulture, and environmental monitoring.
 
 ## Project summary
+**Project Description:**
+
+The Iris Flower Classification project aims to develop a machine learning model to classify iris flowers into their respective species based on specific measurements. The three iris species—setosa, versicolor, and virginica—each exhibit distinct characteristics in terms of their measurements.
+
+**Objective:**
+
+The primary goal of this project is to utilize machine learning techniques to build a classification model that accurately identifies the species of iris flowers based on their measurements. The model aims to automate the classification process, providing a practical solution for identifying iris species.
+
+**Key Project Details:**
+
+- **Iris Species:** The dataset includes three species of iris flowers: setosa, versicolor, and virginica.
+- **Distinguishing Measurements:** These species can be distinguished by measurements such as sepal length, sepal width, petal length, and petal width.
+- **Model Training:** The project involves training a machine learning model on a dataset containing iris flower measurements and their respective species.
+- **Classification Goal:** The trained model will classify iris flowers into one of the three species based on their measurements.
