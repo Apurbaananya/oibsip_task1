@@ -58,3 +58,5 @@ In the Iris flower classification project, the Random Forest model has been sele
 - **Practical Application:** The model can automate Iris species identification in fields like botany and horticulture based on physical characteristics.
 
 In conclusion, the Iris flower classification project successfully utilized the tuned Random Forest model to classify Iris species effectively. It offers practical insights into species differentiation and sets a foundation for future improvements in accuracy and application versatility.
+
+## Author
