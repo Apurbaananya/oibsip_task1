@@ -33,3 +33,12 @@ The primary goal of this project is to utilize machine learning techniques to bu
 
 
 ## Results
+Evaluation Metric:
+
+Recall has been chosen as the primary evaluation metric for the Iris Flower Classification model. After removing overfitted models (those with 100% recall, precision, and F1 scores on the training set), the final list of models is as follows:
+| Sl no.  | Classification Model | Accuracy Train  | Accuracy Test |                                  
+| ------- | -------------------- | --------------- | ------------- |
+|    1    | Decision Tree        |1                | 0.977778      |
+|    2    | Random Forest        |1                | 0.977778      |
+|    3    | XGB                  |1                | 0.977778      |
+
