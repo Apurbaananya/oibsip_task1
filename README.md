@@ -14,3 +14,5 @@ Project Details:
 - Machine Learning Model: The project involves developing and training a machine learning model to accurately classify iris flowers based on these measurements.
 
 This project is significant as it can streamline and automate the classification of iris species, with potential applications in botany, horticulture, and environmental monitoring.
+
+## Project summary
